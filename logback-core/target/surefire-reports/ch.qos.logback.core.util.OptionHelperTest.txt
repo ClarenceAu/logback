@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.util.OptionHelperTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.001 sec
+testLiteral(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec
+testUndefinedValues(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec
+testSubstVarsVariableNotClosed(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec
+testSubstVarsContextOnly(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec
+testSubstVarsSystemProperties(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec
+testSubstVarsWithDefault(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec
+testSubstVarsRecursive(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec
+defaultValueReferencingAVariable(ch.qos.logback.core.util.OptionHelperTest) skipped
+jackrabbit_standalone(ch.qos.logback.core.util.OptionHelperTest)  Time elapsed: 0 sec

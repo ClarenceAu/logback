@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.subst.TokenizerTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec
+literalOnly(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+literalWithAccolades(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+simleVariable(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+mix(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+basicDefaultSeparator(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+colon(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+colonFollowedByDollar(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+defaultSeparatorOutsideVariable(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec
+nested(ch.qos.logback.core.subst.TokenizerTest)  Time elapsed: 0 sec

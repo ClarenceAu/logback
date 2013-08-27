@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.178 sec
+cleanHistoryOnStart(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.021 sec
+monthlyRolloverOverManyPeriods(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.685 sec
+basicDailyRollover(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.427 sec
+dailyRollover15(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.084 sec
+dailyRolloverWithInactivity70(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.466 sec
+dailyRolloverWithInactivity10(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.045 sec
+dailyRolloverWithSecondPhase(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.099 sec
+dailyCronologRollover(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.353 sec
+dailySizeBasedRollover(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.872 sec
+dailyChronologSizeBasedRollover(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.852 sec
+dailyChronologSizeBasedRolloverWithSecondPhase(ch.qos.logback.core.rolling.TimeBasedRollingWithArchiveRemoval_Test)  Time elapsed: 0.273 sec

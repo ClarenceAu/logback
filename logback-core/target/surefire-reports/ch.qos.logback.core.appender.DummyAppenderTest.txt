@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.appender.DummyAppenderTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.052 sec
+testBasic(ch.qos.logback.core.appender.DummyAppenderTest)  Time elapsed: 0.005 sec
+testNewAppender(ch.qos.logback.core.appender.DummyAppenderTest)  Time elapsed: 0 sec
+testConfiguredAppender(ch.qos.logback.core.appender.DummyAppenderTest)  Time elapsed: 0 sec
+testNoStart(ch.qos.logback.core.appender.DummyAppenderTest)  Time elapsed: 0.009 sec

@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.pattern.parser.ParserTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec
+testBasic(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+testComposite(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+testCompositeFormatting(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+testKeyword(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+testNested(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+testFormattingInfo(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+testOptions0(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+testOptions1(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+keywordGluedToLitteral(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec
+lbcore193(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0.002 sec
+empty(ch.qos.logback.core.pattern.parser.ParserTest)  Time elapsed: 0 sec

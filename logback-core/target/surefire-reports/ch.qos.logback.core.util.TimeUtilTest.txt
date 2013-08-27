@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.util.TimeUtilTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 sec
+testSecond(ch.qos.logback.core.util.TimeUtilTest)  Time elapsed: 0 sec
+testMinute(ch.qos.logback.core.util.TimeUtilTest)  Time elapsed: 0 sec
+testHour(ch.qos.logback.core.util.TimeUtilTest)  Time elapsed: 0 sec
+testDay(ch.qos.logback.core.util.TimeUtilTest)  Time elapsed: 0 sec
+testWeek(ch.qos.logback.core.util.TimeUtilTest)  Time elapsed: 0 sec
+testMonth(ch.qos.logback.core.util.TimeUtilTest)  Time elapsed: 0 sec

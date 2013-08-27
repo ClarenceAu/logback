@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.sift.AppenderTrackerTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec
+smoke(ch.qos.logback.core.sift.AppenderTrackerTest)  Time elapsed: 0.001 sec
+removeStaleComponentsShouldNotBomb(ch.qos.logback.core.sift.AppenderTrackerTest)  Time elapsed: 0 sec
+findingTheInexistentShouldNotBomb(ch.qos.logback.core.sift.AppenderTrackerTest)  Time elapsed: 0 sec
+endOfLivedAppendersShouldBeRemovedAfterLingeringTimeout(ch.qos.logback.core.sift.AppenderTrackerTest)  Time elapsed: 0 sec
+endOfLivedAppenderShouldBeAvailableDuringLingeringPeriod(ch.qos.logback.core.sift.AppenderTrackerTest)  Time elapsed: 0.001 sec
+trackerShouldHonorMaxComponentsParameter(ch.qos.logback.core.sift.AppenderTrackerTest)  Time elapsed: 0 sec
+trackerShouldHonorTimeoutParameter(ch.qos.logback.core.sift.AppenderTrackerTest)  Time elapsed: 0.001 sec

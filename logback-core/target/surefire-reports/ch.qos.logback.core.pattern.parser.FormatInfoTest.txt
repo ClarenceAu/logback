@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.pattern.parser.FormatInfoTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+testBasic(ch.qos.logback.core.pattern.parser.FormatInfoTest)  Time elapsed: 0 sec
+testEndingInDot(ch.qos.logback.core.pattern.parser.FormatInfoTest)  Time elapsed: 0 sec
+testRightPad(ch.qos.logback.core.pattern.parser.FormatInfoTest)  Time elapsed: 0 sec
+testMinOnly(ch.qos.logback.core.pattern.parser.FormatInfoTest)  Time elapsed: 0 sec
+testMaxOnly(ch.qos.logback.core.pattern.parser.FormatInfoTest)  Time elapsed: 0 sec

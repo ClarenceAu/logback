@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.net.server.AbstractServerSocketAppenderTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 sec
+testStartStop(ch.qos.logback.core.net.server.AbstractServerSocketAppenderTest)  Time elapsed: 0.002 sec
+testStartWhenAlreadyStarted(ch.qos.logback.core.net.server.AbstractServerSocketAppenderTest)  Time elapsed: 0.001 sec
+testStopThrowsException(ch.qos.logback.core.net.server.AbstractServerSocketAppenderTest)  Time elapsed: 0.003 sec
+testStopWhenNotStarted(ch.qos.logback.core.net.server.AbstractServerSocketAppenderTest)  Time elapsed: 0.001 sec

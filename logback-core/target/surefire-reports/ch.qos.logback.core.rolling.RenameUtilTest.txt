@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.rolling.RenameUtilTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.002 sec
+renameToNonExistingDirectory(ch.qos.logback.core.rolling.RenameUtilTest)  Time elapsed: 0.001 sec
+MANUAL_renamingOnDifferentVolumesOnLinux(ch.qos.logback.core.rolling.RenameUtilTest) skipped
+MANUAL_renamingOnDifferentVolumesOnWindows(ch.qos.logback.core.rolling.RenameUtilTest) skipped
+renameByCopying(ch.qos.logback.core.rolling.RenameUtilTest)  Time elapsed: 0 sec

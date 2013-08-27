@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.util.StringCollectionUtilTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec
+testRetainMatchingWithNoPatterns(ch.qos.logback.core.util.StringCollectionUtilTest)  Time elapsed: 0 sec
+testRetainMatchingWithMatchingPattern(ch.qos.logback.core.util.StringCollectionUtilTest)  Time elapsed: 0 sec
+testRetainMatchingWithNoMatchingPattern(ch.qos.logback.core.util.StringCollectionUtilTest)  Time elapsed: 0.003 sec
+testRemoveMatchingWithNoPatterns(ch.qos.logback.core.util.StringCollectionUtilTest)  Time elapsed: 0.002 sec
+testRemoveMatchingWithMatchingPattern(ch.qos.logback.core.util.StringCollectionUtilTest)  Time elapsed: 0 sec
+testRemoveMatchingWithNoMatchingPattern(ch.qos.logback.core.util.StringCollectionUtilTest)  Time elapsed: 0 sec

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/logback-access/logback-access.iml" filepath="$PROJECT_DIR$/logback-access/logback-access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-classic/logback-classic.iml" filepath="$PROJECT_DIR$/logback-classic/logback-classic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-core/logback-core.iml" filepath="$PROJECT_DIR$/logback-core/logback-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-examples/logback-examples.iml" filepath="$PROJECT_DIR$/logback-examples/logback-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-parent.iml" filepath="$PROJECT_DIR$/logback-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logback-site/logback-site.iml" filepath="$PROJECT_DIR$/logback-site/logback-site.iml" />
+    </modules>
+  </component>
+</project>
+

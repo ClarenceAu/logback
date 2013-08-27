@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.joran.spi.ElementSelectorTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec
+test1(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec
+test2(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec
+test3(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec
+testSuffix(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec
+test4(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec
+test5(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec
+test6(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0.001 sec
+testTailMatch(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec
+testPrefixMatch(ch.qos.logback.core.joran.spi.ElementSelectorTest)  Time elapsed: 0 sec

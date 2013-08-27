@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.net.server.ConcurrentServerRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.013 sec
+testStartStop(ch.qos.logback.core.net.server.ConcurrentServerRunnerTest)  Time elapsed: 0.002 sec
+testRunOneClient(ch.qos.logback.core.net.server.ConcurrentServerRunnerTest)  Time elapsed: 0.002 sec
+testRunManyClients(ch.qos.logback.core.net.server.ConcurrentServerRunnerTest)  Time elapsed: 0.006 sec
+testRunClientAndVisit(ch.qos.logback.core.net.server.ConcurrentServerRunnerTest)  Time elapsed: 0.002 sec

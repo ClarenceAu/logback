@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.rolling.RollingFileAppenderTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec
+testPrudentModeLogicalImplications(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0.001 sec
+testPrudentModeLogicalImplicationsOnCompression(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0.001 sec
+testFilePropertyAfterRollingPolicy(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0 sec
+testFilePropertyAfterTriggeringPolicy(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0.001 sec
+testFileNameWithParenthesis(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0.001 sec
+stopTimeBasedRollingPolicy(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0.002 sec
+stopFixedWindowRollingPolicy(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0 sec
+testFileShouldNotMatchFileNamePattern(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0 sec
+testNewAppender(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0 sec
+testConfiguredAppender(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0.001 sec
+testNoStart(ch.qos.logback.core.rolling.RollingFileAppenderTest)  Time elapsed: 0 sec

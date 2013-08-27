@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.net.ssl.SSLContextFactoryBeanTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec
+testCreateDefaultContext(ch.qos.logback.core.net.ssl.SSLContextFactoryBeanTest)  Time elapsed: 0.016 sec
+testCreateContext(ch.qos.logback.core.net.ssl.SSLContextFactoryBeanTest)  Time elapsed: 0 sec

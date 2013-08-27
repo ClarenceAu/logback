@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 sec
+testSetIncludedProtocols(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testSetExcludedProtocols(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testSetIncludedAndExcludedProtocols(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0.003 sec
+testSetIncludedCipherSuites(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testSetExcludedCipherSuites(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testSetExcludedAndIncludedCipherSuites(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testSetNeedClientAuth(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testSetWantClientAuth(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testPassDefaultProtocols(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testPassDefaultCipherSuites(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testPassDefaultNeedClientAuth(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec
+testPassDefaultWantClientAuth(ch.qos.logback.core.net.ssl.SSLParametersConfigurationTest)  Time elapsed: 0 sec

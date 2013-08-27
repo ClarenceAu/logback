@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.01 sec
+testOK(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0 sec
+testEscapeClosingParentheses(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0 sec
+testEscapeBothParentheses(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0.001 sec
+testPercentAsLiteral(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0 sec
+testStarted(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0 sec
+testUnStarted(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0 sec
+testConverterStart(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0.008 sec
+testNullPattern(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0 sec
+testEmptyPattern(ch.qos.logback.core.pattern.parser.SamplePatternLayoutTest)  Time elapsed: 0 sec

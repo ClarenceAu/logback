@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.encoder.ByteArrayUtilTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.02 sec
+smoke(ch.qos.logback.core.encoder.ByteArrayUtilTest)  Time elapsed: 0 sec
+random(ch.qos.logback.core.encoder.ByteArrayUtilTest)  Time elapsed: 0.02 sec

@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec
+existingLocalPropertyShouldEvaluateToTrue(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.002 sec
+existingContextPropertyShouldEvaluateToTrue(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.002 sec
+existingSystemPropertyShouldEvaluateToTrue(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.002 sec
+isNullForExistingLocalProperty(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.001 sec
+isNullForExistingContextProperty(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.001 sec
+isNullForExistingSystemProperty(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.002 sec
+inexistentPropertyShouldEvaluateToFalse(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.001 sec
+isNullForInexistentPropertyShouldEvaluateToTrue(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.002 sec
+isDefinedForInexistentPropertyShouldEvaluateToTrue(ch.qos.logback.core.joran.conditional.PropertyEvalScriptBuilderTest)  Time elapsed: 0.001 sec

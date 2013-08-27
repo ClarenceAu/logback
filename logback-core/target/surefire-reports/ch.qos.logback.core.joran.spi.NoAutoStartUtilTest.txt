@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.joran.spi.NoAutoStartUtilTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+commonObject(ch.qos.logback.core.joran.spi.NoAutoStartUtilTest)  Time elapsed: 0 sec
+markedWithNoAutoStart(ch.qos.logback.core.joran.spi.NoAutoStartUtilTest)  Time elapsed: 0 sec

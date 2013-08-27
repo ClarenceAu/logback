@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.joran.action.PropertyActionTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 sec
+noName(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0.001 sec
+nameValuePair(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0.001 sec
+nameValuePairWithPrerequisiteSubsitution(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec
+noValue(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec
+noAttributes(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec
+testFileNotLoaded(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec
+testLoadFileWithPrerequisiteSubsitution(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec
+testLoadFile(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec
+testLoadResource(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec
+testLoadResourceWithPrerequisiteSubsitution(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0.001 sec
+testLoadNotPossible(ch.qos.logback.core.joran.action.PropertyActionTest)  Time elapsed: 0 sec

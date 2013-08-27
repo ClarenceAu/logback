@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.joran.conditional.IfThenElseTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.038 sec
+whenContextPropertyIsSet_IfThenBranchIsEvaluated(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0.006 sec
+whenLocalPropertyIsSet_IfThenBranchIsEvaluated(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0.004 sec
+whenNoPropertyIsDefined_ElseBranchIsEvaluated(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0.005 sec
+whenContextPropertyIsSet_IfThenBranchIsEvaluated_NO_ELSE_DEFINED(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0.004 sec
+whenNoPropertyIsDefined_IfThenBranchIsNotEvaluated_NO_ELSE_DEFINED(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0.005 sec
+nestedIf(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0.006 sec
+useNonExistenceOfSystemPropertyToDefineAContextProperty(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0.007 sec
+noContextPropertyShouldBeDefinedIfSystemPropertyExists(ch.qos.logback.core.joran.conditional.IfThenElseTest)  Time elapsed: 0 sec

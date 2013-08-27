@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.recovery.RecoveryCoordinatorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 sec
+smoke(ch.qos.logback.core.recovery.RecoveryCoordinatorTest)  Time elapsed: 0 sec
+actualTime(ch.qos.logback.core.recovery.RecoveryCoordinatorTest)  Time elapsed: 0.036 sec
+longTermFailure(ch.qos.logback.core.recovery.RecoveryCoordinatorTest)  Time elapsed: 0 sec

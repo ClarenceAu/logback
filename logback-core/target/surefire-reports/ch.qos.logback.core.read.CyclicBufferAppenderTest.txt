@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.read.CyclicBufferAppenderTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+genericGet(ch.qos.logback.core.read.CyclicBufferAppenderTest)  Time elapsed: 0 sec
+reset(ch.qos.logback.core.read.CyclicBufferAppenderTest)  Time elapsed: 0 sec

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.net.ssl.SecureRandomFactoryBeanTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+testDefaults(ch.qos.logback.core.net.ssl.SecureRandomFactoryBeanTest)  Time elapsed: 0 sec
+testExplicitProvider(ch.qos.logback.core.net.ssl.SecureRandomFactoryBeanTest)  Time elapsed: 0 sec
+testUnknownProvider(ch.qos.logback.core.net.ssl.SecureRandomFactoryBeanTest)  Time elapsed: 0 sec
+testUnknownAlgorithm(ch.qos.logback.core.net.ssl.SecureRandomFactoryBeanTest)  Time elapsed: 0 sec

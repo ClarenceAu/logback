@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.net.AbstractSocketAppenderTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0.121 sec
+appenderShouldFailToStartWithoutValidPort(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0 sec
+appenderShouldFailToStartWithoutValidRemoteHost(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0 sec
+appenderShouldFailToStartWithNegativeQueueSize(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0 sec
+appenderShouldFailToStartWithUnresolvableRemoteHost(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0.001 sec
+appenderShouldFailToStartWithZeroQueueLength(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0.004 sec
+appenderShouldStartWithValidParameters(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0 sec
+appenderShouldCleanupTasksWhenStopped(ch.qos.logback.core.net.AbstractSocketAppenderTest) skipped
+testAppendWhenNotStarted(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0 sec
+testAppendNullEvent(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0.001 sec
+testAppendEvent(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0 sec
+testDispatchEvent(ch.qos.logback.core.net.AbstractSocketAppenderTest)  Time elapsed: 0.106 sec

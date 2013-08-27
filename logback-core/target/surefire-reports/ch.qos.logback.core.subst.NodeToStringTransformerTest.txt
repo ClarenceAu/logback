@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.subst.NodeToStringTransformerTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.005 sec
+literal(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+literalWithNestedAccolades(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+variable(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+literalVariableLiteral(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+nestedVariable(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+LOGBACK729(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+LOGBACK744_withColon(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0.001 sec
+loneColonShouldReadLikeAnyOtherCharacter(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+withDefaultValue(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0 sec
+defaultValueNestedAsVar(ch.qos.logback.core.subst.NodeToStringTransformerTest)  Time elapsed: 0.001 sec

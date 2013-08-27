@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.slf4j:slf4j-api:test-jar:tests:1.7.5">
+    <CLASSES>
+      <root url="jar://$M2_REPO$/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$M2_REPO$/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$M2_REPO$/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.spi.AppenderAttachableImplLockTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 sec
+getAppenderBoom(ch.qos.logback.core.spi.AppenderAttachableImplLockTest)  Time elapsed: 0.011 sec
+detachAppenderBoom(ch.qos.logback.core.spi.AppenderAttachableImplLockTest)  Time elapsed: 0.003 sec

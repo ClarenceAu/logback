@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.pattern.parser.TokenStreamTest
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+testBasic(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testEmpty(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testNested(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testSingleLiteral(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testLiteralWithPercent(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testComplexNR(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testEmptyP(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testEmptyP2(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testEscape(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testOptions(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testSimpleP(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testSimpleP2(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testMultipleRecursion(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testEscapedParanteheses(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+testWindowsLikeBackSlashes(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+compositedKeyword(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec
+compositedKeywordFollowedByOptions(ch.qos.logback.core.pattern.parser.TokenStreamTest)  Time elapsed: 0 sec

@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.util.FileUtilTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+checkParentCreationInquiryAndSubsequentCreation(ch.qos.logback.core.util.FileUtilTest)  Time elapsed: 0 sec
+checkDeeperParentCreationInquiryAndSubsequentCreation(ch.qos.logback.core.util.FileUtilTest)  Time elapsed: 0 sec
+basicCopyingWorks(ch.qos.logback.core.util.FileUtilTest)  Time elapsed: 0 sec

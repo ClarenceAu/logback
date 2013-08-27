@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.net.DefaultSocketConnectorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.511 sec
+testConnect(ch.qos.logback.core.net.DefaultSocketConnectorTest)  Time elapsed: 0.003 sec
+testConnectionFails(ch.qos.logback.core.net.DefaultSocketConnectorTest)  Time elapsed: 1.008 sec
+testConnectEventually(ch.qos.logback.core.net.DefaultSocketConnectorTest)  Time elapsed: 1.498 sec

@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.joran.spi.SimpleRuleStoreTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.012 sec
+smoke(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testSuffix(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+smokeII(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testSlashSuffix(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testTail1(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testTail2(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testTail3(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testTail4(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testDeepSuffix(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0.002 sec
+testPrefixSuffixInteraction1(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0 sec
+testPrefixSuffixInteraction2(ch.qos.logback.core.joran.spi.SimpleRuleStoreTest)  Time elapsed: 0.006 sec

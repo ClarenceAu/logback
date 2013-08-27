@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.subst.ParserTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec
+literal(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+variable(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+literalVariableLiteral(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+literalWithAccolade0(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+literalWithAccolade1(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+literalWithTwoAccolades(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0.001 sec
+withColon(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+withDefault(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+defaultSeparatorOutsideOfAVariable(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec
+nested(ch.qos.logback.core.subst.ParserTest)  Time elapsed: 0 sec

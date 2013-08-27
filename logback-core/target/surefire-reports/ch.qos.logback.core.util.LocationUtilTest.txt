@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.util.LocationUtilTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.008 sec
+testImplicitClasspathUrl(ch.qos.logback.core.util.LocationUtilTest)  Time elapsed: 0 sec
+testExplicitClasspathUrl(ch.qos.logback.core.util.LocationUtilTest)  Time elapsed: 0.001 sec
+testExplicitClasspathUrlWithLeadingSlash(ch.qos.logback.core.util.LocationUtilTest)  Time elapsed: 0 sec
+testExplicitClasspathUrlEmptyPath(ch.qos.logback.core.util.LocationUtilTest)  Time elapsed: 0 sec
+testExplicitClasspathUrlWithRootPath(ch.qos.logback.core.util.LocationUtilTest)  Time elapsed: 0 sec
+testFileUrl(ch.qos.logback.core.util.LocationUtilTest)  Time elapsed: 0.006 sec

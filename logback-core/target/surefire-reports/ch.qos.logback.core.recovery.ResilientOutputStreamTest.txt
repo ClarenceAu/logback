@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.recovery.ResilientOutputStreamTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.317 sec
+verifyRecuperationAfterFailure(ch.qos.logback.core.recovery.ResilientOutputStreamTest)  Time elapsed: 0.317 sec

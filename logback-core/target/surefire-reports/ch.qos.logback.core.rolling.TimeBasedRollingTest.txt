@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: ch.qos.logback.core.rolling.TimeBasedRollingTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.087 sec
+noCompression_FileBlank_NoRestart_1(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.005 sec
+withCompression_FileBlank_NoRestart_2(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.008 sec
+noCompression_FileBlank_StopRestart_3(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.012 sec
+noCompression_FileSet_StopRestart_4(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.01 sec
+noCompression_FileSet_StopRestart_WithLongWait_4B(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.009 sec
+noCompression_FileSet_NoRestart_5(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.009 sec
+withCompression_FileSet_NoRestart_6(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.005 sec
+withMissingTargetDirWithCompression(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.007 sec
+withMissingTargetDirWithZipCompression(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.012 sec
+failed_rename(ch.qos.logback.core.rolling.TimeBasedRollingTest)  Time elapsed: 0.008 sec
