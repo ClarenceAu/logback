@@ -22,7 +22,11 @@ import ch.qos.logback.core.status.StatusManager;
 
 /**
  * A context is the main anchorage point of all logback components.
- * 
+ *
+ * <p>
+ *     Context接口是logback中组件的一个主要的锚点，外部所有扩展logback的组件都需要实现这个接口。
+ *     不过除了直接实现这个接口外，也可以通过继承ContextBase等类来获得一些简单的接口实现，而不需要自己实现所有的接口方法。
+ * </p>
  * @author Ceki Gulcu
  * 
  */

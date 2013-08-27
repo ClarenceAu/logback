@@ -26,6 +26,23 @@ import ch.qos.logback.core.status.WarnStatus;
  * 
  * <p> For more information about this appender, please refer to the online
  * manual at http://logback.qos.ch/manual/appenders.html#AppenderBase
+ *
+ * <p>
+ *      AppenderBase类提供了一个Appender实现的基本框架，并且可以作为一个Appender实现的Helper类。
+ *      从AppenderBase类可以看到一个Appender实现的基本依赖关系。
+ *      Appender继承的FilterAttachable接口，在本类中通过委托给FilterAttachableImpl的对象来实现其方法。
+ *      而LifeCycle接口则通过一个名为started的布尔值来实现。
+ *      而AppenderBase本身也继承自ContextAwareBase类，以获得ContextAware接口实现的功能。
+ *      在AppenderBase类中，最重要的一个方法就是，提供了一个doAppend()方法的实现框架，其他继承自AppenderBase的子类只需要实现抽象方法append()
+ *      就可以了。
+ * </p>
+ * <p>
+ *     在AppenderBase类中，doAppend方法是synchronized的，也就是说，这个方法是同步并且线程安全的。
+ *     在doAppend方法中，最重要的一个点就是它会先判断guard字段是否已经为true，guard字段为true代表doAppend方法已经被调用过了。
+ *     因此doAppend方法会在guard为true的时候马上退出。
+ *     这样做主要是为了防止在其子类中，实现的append方法会由于某种原因又调用到了doAppend方法，由于是在同一线程中的，因此这时是可以进入doAppend方法的。
+ *     如果没有guard字段的判断，这是doAppend方法就会陷入一个无限的循环中。
+ * </p>
  * 
  * @author Ceki G&uuml;lc&uuml;
  */

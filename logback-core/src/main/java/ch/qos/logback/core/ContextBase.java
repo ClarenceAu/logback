@@ -24,6 +24,12 @@ import ch.qos.logback.core.spi.LogbackLock;
 import ch.qos.logback.core.status.StatusManager;
 import ch.qos.logback.core.util.ExecutorServiceUtil;
 
+/**
+ * <p>
+ *     ContextBase类主要是提供了Context接口的一个基本实现的结构，其他相关的Context实现类都可以通过继承这个ContextBase类
+ *     来获得基本的Context实现功能。
+ * </p>
+ */
 public class ContextBase implements Context, LifeCycle {
 
   private long birthTime = System.currentTimeMillis();
